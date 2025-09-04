@@ -1,6 +1,6 @@
 # YouTube Transcript Service
 
-A standalone serverless API for extracting YouTube video transcripts.
+A standalone serverless API for extracting YouTube video transcripts with CORS support.
 
 ## Endpoints
 
